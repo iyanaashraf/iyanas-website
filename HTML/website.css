@@ -1,0 +1,31 @@
+html {
+	background-image: url("http://bgfons.com/upload/rainbow_texture679.jpg");
+	background-repeat: no-repeat;
+	background-size: 2000px 2000px;
+}
+
+h1 {
+	color:#f2ede4;
+	font-size:32px;
+	text-align:center;
+
+}
+
+p {
+	font-size:20px;
+	text-align:center;
+
+
+}
+
+h2 {
+	color:#5cc7d6;
+}
+
+.nav {
+	color:#dfdfdf;
+}
+
+.jumbotron p {
+	color:#f2ede4;
+}

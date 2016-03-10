@@ -1,0 +1,24 @@
+html {
+	background-color: #161516;
+
+}
+
+.jumbotron {
+	color: #f0f8ff;
+	text-align: center;
+
+
+}
+
+.images {
+	float: left;
+	color:#ffb3a4;
+
+}
+
+.image {
+	float: right;
+	color:#ffb3a4;
+
+	
+}

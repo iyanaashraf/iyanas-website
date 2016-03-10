@@ -1,0 +1,30 @@
+html {
+	background-image: url("http://cdextras.cambridge.org/funfor/movers/swf/games/word_match/movers_hobbies/background.jpg");
+	background-size: 1500px 700px;
+	background-repeat: no-repeat;
+}
+
+.header {
+	color:#ec0000;
+	font-size:38px;
+	text-align: center;
+
+
+}
+
+h1{
+	text-shadow: black 5px 5px 5px;
+}
+
+h3 {
+	color:#a50d15;
+	
+}
+
+.first{
+	text-align: left;
+}
+
+.second {
+	float: middle;
+}
