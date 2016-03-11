@@ -1,7 +1,12 @@
 html {
 	background-image: url("http://cdextras.cambridge.org/funfor/movers/swf/games/word_match/movers_hobbies/background.jpg");
-	background-size: 1500px 700px;
+	position:50% 50% fixed;
 	background-repeat: no-repeat;
+	background-size: cover;
+
+
+
+
 }
 
 .header {

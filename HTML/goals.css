@@ -1,7 +1,7 @@
 html{
 	background-image: url("http://aspireblog.org/wp-content/uploads/2013/04/chalkboard.jpg");
 	background-repeat: no-repeat;
-	background-size: 1400px 670px;
+	background-attachment: fixed;
 }
 
 h1{
