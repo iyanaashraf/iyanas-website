@@ -1,7 +1,7 @@
 html{
 	background-image: url("http://aspireblog.org/wp-content/uploads/2013/04/chalkboard.jpg");
 	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-size: 1400px 670px;
 }
 
 h1{
@@ -15,4 +15,30 @@ h2 {
 	text-align: center;
 	color:#dfdfdf;
 	font-family: "Comic Sans MS";
+}
+
+h3 {
+	font-size: 30px;
+}
+
+.dropdown{
+	position:relative;
+	display: inline-block;
+
+}
+
+.dropdown-content{
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba (0,0,0,0.2);
+	padding: 12px 16px;
+	z-index: 1;
+
+}
+
+.dropdown:hover
+.dropdown-content{
+	display: block;
 }
